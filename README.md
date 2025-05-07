@@ -6,3 +6,8 @@
 
 
 <b>Scg</b> represents knowledge in graph form, facilitating integration and reasoning of diverse knowledge sources.
+
+#Images of formalised graphs
+background_knowledge_graph
+logical_formulas_graph
+non-atomic_action_description_template_graph
