@@ -11,6 +11,8 @@
 background_knowledge_graph
 
 ![image](https://github.com/user-attachments/assets/a4370670-81ee-4c7a-aaad-21bfc017bbc9)
+![image](https://github.com/user-attachments/assets/e5a9ffb6-b41f-469d-aa22-508cc0d88e10)
+
 
 
 
